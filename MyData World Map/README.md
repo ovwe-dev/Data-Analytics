@@ -46,12 +46,12 @@ No extra Python libraries are required.
 
 ```text
 README.md
-week1/my\\\_data\\\_world\\\_map.ipynb
+week1/my\\\\\\\_data\\\\\\\_world\\\\\\\_map.ipynb
 ```
 
 ## Author
 
-Student: Oti Edema  
+Student: Ovwe Obominuru 
 Programme: Inferaq Academy Data Analytics Professional Programme  
 Project: Week 1 — My Data World Map
 
