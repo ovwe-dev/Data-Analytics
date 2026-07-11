@@ -6,7 +6,7 @@ The project uses a Jupyter Notebook to explore how everyday apps collect and use
 
 ## Project Aim
 
-The aim of this project is to understand my personal data footprint and explain how apps use data to make decisions, personalise services, improve products, and support business goals.
+The project aim is to understand my personal data footprint and explain how apps use data to make decisions, personalise services, improve products, and support business goals.
 
 ## What the Notebook Covers
 
@@ -46,7 +46,7 @@ No extra Python libraries are required.
 
 ```text
 README.md
-week1/my\_data\_world\_map.ipynb
+week1/my\\\_data\\\_world\\\_map.ipynb
 ```
 
 ## Author
