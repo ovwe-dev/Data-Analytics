@@ -2,6 +2,9 @@
 
 ## Project Title
 
+<img width="1364" height="875" alt="Image" src="https://github.com/user-attachments/assets/0022ddbd-a237-441a-9d3b-761e66860cac" />
+
+
 **Healthcare Operations \& Billing Intelligence Analysis**
 
 ## Business Problem
